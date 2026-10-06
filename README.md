@@ -31,8 +31,8 @@ An executive-level, interactive two-page Power BI dashboard designed to analyze 
 
 ## 📸 Previews
 
-### Page 1: Executive Summary / Business Overview
-*(Replace with your actual image filename if different, e.g., `![Page 1](page1.png)`)*
+### Page 1:Business Overview
+*`![Page 1](Business Overview.png)`)*
 
 ### Page 2: Profitability & Regional Analysis
-*(Replace with your actual image filename if different, e.g., `![Page 2](page2.png)`)*
+* `![Page 2](Profiability & Regeonal Analysis.png)`)*
